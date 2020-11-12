@@ -104,15 +104,8 @@ public class PhoneBook {
             contactNames.add(key);
         }
 
-
-//        String[] namesAsArray = (String[]) allContactNames.toArray();
-//
-//        List<String> contactNames = Arrays.asList(namesAsArray);
-
         return contactNames;
 
-
-//        return Arrays.asList((String[])this.phonebook.keySet().toArray());
 
     }
 

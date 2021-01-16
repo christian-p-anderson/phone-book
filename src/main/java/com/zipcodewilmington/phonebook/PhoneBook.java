@@ -4,10 +4,7 @@ import java.util.*;
 //import java.util.HashMap;
 
 
-/**
- * Created by leon on 1/23/18.
- * Made WAY better by kristofer 6/16/20
- */
+
 public class PhoneBook {
 
     // do constructors with a linked HashMap
